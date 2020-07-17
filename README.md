@@ -1,2 +1,3 @@
 # Practice
-it is a practice repo
+* It is practice of git hub
+
